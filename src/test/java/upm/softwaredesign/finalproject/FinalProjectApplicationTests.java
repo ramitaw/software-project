@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import upm.softwaredesign.finalproject.service.ActorService;
-import upm.softwaredesign.finalproject.entity.ActorEntity;
+//import upm.softwaredesign.finalproject.entity.ActorEntity;
 //import upm.softwaredesign.finalproject.model.*;
 
 @RunWith(SpringRunner.class)
